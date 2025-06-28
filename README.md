@@ -10,5 +10,7 @@ A C++ stock trading simulator that implements technical indicators like RSI, MAC
 - Simulates trades and portfolio growth
 - Calculates win rate, returns, and drawdowns
 
+# Output
 
+![image alt](https://github.com/aashika3582/FinSimX-/blob/32e93effbf8356cae7b25bdcd60f68a5804a05ea/finsimx%20output.png)
 
